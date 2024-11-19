@@ -4,7 +4,7 @@ Hi 👋 My name is Adam Kwiasowski
 Web Developer
 -------------
 
-I'm currently a student at Technical University of Lodz, I've been coding for 5 years now, starting my journey with JS.
+I'm currently a student at Lodz Technical university, I've been coding for 5 years now, starting my journey with JavaScript.
 
 * 🌍  I'm based in Lodz, Poland
 * 🖥️  See my portfolio at [kwiasek.site](http://kwiasek.site)
